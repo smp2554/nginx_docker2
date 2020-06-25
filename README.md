@@ -1,1 +1,3 @@
 # nginx_docker2
+
+home....rest.....
