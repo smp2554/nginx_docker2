@@ -1,3 +1,3 @@
 # nginx_docker2
 
-home....rest.....
+docker build --tag smp2554/ubuntu2 .
